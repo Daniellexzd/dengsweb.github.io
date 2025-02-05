@@ -124,13 +124,13 @@
       "Title": "Visual scanning of a talking face when searching segmental and tonal cues in Mandarin.",
       "Authors": "Xizi Deng, Elise McClay, Erin Jastrzebski, Bingqing Yu, Yue Wang, H. Henny Yeung,",
       "Journal":"Applied Psycholinguisitcs",
-      "Status": "In preparation",
+      "Status": "In preparation"
     },
       {
       "Title": "Lexically guided accent adaptation in nonnative listeners of English",
       "Authors": "Xizi Deng, H. Henny Yeung,",
       "Journal":"The Journal of Acoustical Society of America",
-      "Status": "In preparation",
+      "Status": "In preparation"
     }
   ],
   "Conference presentations": [
@@ -140,7 +140,7 @@
       "Conference":"New Sounds 2025",
       "Date": "04-2025",
       "Venue": "University of Toronto, Toronto, Canada",
-      "Type": "Oral presentation",
+      "Type": "Oral presentation"
     },
      {
       "Title": "Native-nonnative speech adaptations in conversation: Effects of L1 background.",
@@ -148,7 +148,7 @@
       "Conference":"New Sounds 2025",
       "Date": "04-2025",
       "Venue": "University of Toronto, Toronto, Canada",
-      "Type": "Poster presentation",
+      "Type": "Poster presentation"
     },
      {
       "Title": "The perception of accented English by English learners: Revisiting the interlanguage speech intelligibility benefit.",
@@ -157,7 +157,7 @@
       "Date": "06-2024",
       "Venue": "Hanyang University, Seoul, South Korea",
        "url":"https://labphon.org/sites/default/files/labphon19/Papers/LabPhon19_paper_79.pdf",
-      "Type": "Poster presentation",
+      "Type": "Poster presentation"
     },
     {
      "Title": "Speech adaptation in conversation: Effects of segment cue-weighting strategy for non-native speakers.",
@@ -166,7 +166,7 @@
       "Date": "05-2024",
       "Venue": "Ottawa, Canada",
       "url": "https://pubs.aip.org/asa/jasa/article/155/3_Supplement/A167/3301629/Speech-adaptation-in-conversation-Effects-of",
-      "Type": "Poster presentation",
+      "Type": "Poster presentation"
     },
     {
       "Title": "The perception of visual phonetic information: Eye-tracking while searching for segmental versus prosodic cues.",
@@ -175,7 +175,7 @@
       "Date": "08-2023",
       "Venue": "Prague,The Czech Republic",
       "url": "https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/363.pdf",
-      "Type": "Poster presentation",
+      "Type": "Poster presentation"
     },
      {
       "Title": "Visual scanning of a talking face when evaluating segmental and prosodic information.",
@@ -212,7 +212,7 @@
     {
      "Title": "Processing Prosody to Avoid Ambiguity in Sentence Comprehension: Evidence from Tone Sandhi Pattern in Shanghainese.",
       "Author": "Xizi Deng",
-      "Conference":"Fall term poster session at The Department of Linguistics",
+      "Conference":"Fall-term poster session at The Department of Linguistics",
       "Date": "12-2017",
       "Venue": "Simon Fraser University, Burnaby, Canada",
       "Type": "Poster presentation",
@@ -220,63 +220,271 @@
   ],
   "Invited talks & Public presentations": [
     {
-      "Title": "Tuning your ears and your tongue to a new language: the phonetics and phonology of second-language learning.",
+      "Title": "Bridging Language Gaps: How We Learn to Understand Foreign Accents.",
+      "Event": "Three Minute Thesis competition (prospective)",
+      "url": "https://www.sfu.ca/gradstudies/life-community/news-events/events/3mt.html"
+       "Date": "03-2025",
+      "Venue": "Simon Fraser University, Burnaby, Canada",
+    },
+    {
+      "Title": "Cracking the Accent Code: How Language Learners Make Sense of Unfamiliar Speech.",
       "Event": "SFU Multilingual Week 2025",
       "Invited by": "Faculty of Arts and Social Sciences ",
        "Date": "02-2025",
       "Venue": "Simon Fraser University, Burnaby, Canada",
     },
      {
-      "Title": "Tuning your ears and your tongue to a new language: the phonetics and phonology of second-language learning (co-presented with Dr. Henny Yeung).",
-      "Event":"SFU Multilingual Week 2024"
+      "Title": "Tuning your ears and your tongue to a new language: the phonetics and phonology of second-language learning.",
+      "Event":"SFU Multilingual Week 2024",
        "Invited by": "Dr. Henny Yeung, Department of Linguistics",
        "Date": "02-2024",
       "Venue": "Simon Fraser University, Burnaby, Canada",
     },
      {
       "Title": "L2 English learners' phonetic adaptation to non-native accents.",
-      "Event": "PhonArea meeting"
+      "Event": "PhonArea meeting",
        "Invited by": "PhonArea organizing committee, Department of Linguistics",
        "Date": "01-2024",
       "Venue": "Simon Fraser University, Burnaby, Canada",
     },
     {
-      "Title": "L2 English learners' phonetic adaptation to non-native accents.",
+      "Title": "Rethinking the phonetics of baby-talk: Differences across Canada and Vanuatu in the articulation of mothers' speech to infants. (Co-presented with Dr. Henny Yeung).",
+      "Event": "PhonArea meeting",
       "Invited by": "Dr. Henny Yeung, Department of Linguistics",
-       "Date": "01-2017",
+       "Date": "10-2017",
       "Venue": "Simon Fraser University, Burnaby, Canada",
     }
   ],
   "Journal review": [
     {
-      "Title": "Acoustic and sentential cues on English learners’ adaptation to non-native English accents: Using artificially generated voices to test accent adaptation.",
-      "Authors": "Xizi Deng ,H. Henny Yeung",
-      "Conference":"New Sounds 2025",
-      "Date": "04-2025",
-      "Venue": "University of Toronto, Toronto, Canada",
-      "Type": "Oral presentation",
+      "Journal": "JASA Express Letters",
+      "url": "https://pubs.aip.org/asa/jel",
+      "Year":"2023",
+      "Number of work": "1"
     },
      {
-      "Title": "Native-nonnative speech adaptations in conversation: Effects of L1 background.",
-      "Authors": "Han Zhang, Xizi Deng, Paul Tupperb, Joan A. Serenoc, Allard Jongmanc, Dawn M. Behned, Yue Wang",
-      "Conference":"New Sounds 2025",
-      "Date": "04-2025",
-      "Venue": "University of Toronto, Toronto, Canada",
-      "Type": "Poster presentation",
+      "Journal": "Devlopmental Psychology",
+      "url": "https://psycnet.apa.org/PsycARTICLES/journal/dev/61/2",
+      "Year":"2021",
+      "Number of work": "1"
     }
   ],
+  "Research experience": [
+    {
+      "Lab": "Language Learning and Development Lab, Simon Fraser University, Canada",
+      "Project": "Linguistic analysis of infant- and child-directed speech in one’s first and second languages.",
+      "PI": "Dr. Henny Yeung",
+      "startDate": "2024",
+      "endDate": "now",
+      "Role": "Graduate research assistant"
+      "Duties": ["Coordinated the recruitment of bilingual families among community partners",
+                 "Coordinated and supervised the data collection of bilingual parents and infants and managed data curation.",
+                  "Mentored undergraduate students"
+      ]
+    },
+    {
+      "Lab": "Language and Brain Lab, Simon Fraser University, Canada",
+      "Project": "Adaptations in conversation: engaging voices, faces, brains and machines.",
+      "PI": "Dr. Yue Wang",
+      "startDate": "2023",
+      "endDate": "now",
+      "Role": "Graduate research assistant"
+      "Duties":["Used Linear Mixed Effects Models to analyze vowel acoustics",
+                "Mentored undergraduate and graduate students"
+      ]
+    },
+    {
+      "Lab": "Language Learning and Development Lab, Simon Fraser University, Canada",
+      "Project": "L2 English learners' phonetic adaptation to non-native accents.",
+      "PI/Co-Is": "Dr.Henny Yeung ",
+      "startDate": "2023",
+      "endDate": "now",
+      "Role": "Student lead, Doctoral trainee of NSERC Discovery Grant",
+      "Duties": ["Conducted literature review, developed research questions and hypotheses",
+                 "Designed online experiment platform for perception studies using JsPschy",
+                 "Created scripts in MatLab to generate acoustic continuums for fricatives using STRAIGHT toolkit",
+                 "Collected and curated speech perception and production data from 420 native English speakers and Mandarin learners of English in Canada and China",
+                 "Used Generalized Linear Mixed Effects Models to analyze perception data and performed Linear Discriminant Analysis on acoustics.",
+                 "Developed a doctoral dissertation, 3 first-author manuscripts (1 submitted, 2 in preparation) and 2 conference presentations."
+        
+      ]
+    },
+    {
+      "Lab": "Language Learning and Development Lab & Language and Brain Lab, Simon Fraser University, Canada",
+      "Project": "Visual Processing of Speech Cues.",
+      "PI/Co-Is": "Dr. Henny Yeung, Dr. Yue Wang",
+      "startDate": "2017",
+      "endDate": "now",
+      "Role": "Graduate trainee of NSERC and SSHRC Grant "
+      "Duties": ["Conducted literature review, developed research questions and hypotheses",
+                 "Designed auditory stimuli in Mandarin and recorded visual stimuli",
+                 "Coordinated and supervised the data collection of eye-tracking data from 72 monolingual English and bilingual English-Mandarin speakers.",
+                 "Used Linear Mixed Effects Models to analyze fixation proportions, saccade amplitude and fixation latency, conducted Growth Curve Analysis on eye-gaze patterns",
+                 "Mentored undergraduate students",
+                 "Developed 3 first-author manuscripts (1 published, 1 in revision, 1 in preparation) and 2 conference presentations."    
+     ]
+    },
+    {
+      "Lab": "The Language Production Lab, Simon Fraser University, Canada",
+      "Projects": "Simon Fraser University Speech Error Database, Digital Annotated Speech Error Bibliography.",
+      "PI": "Dr. John Alderete",
+      "startDate": "2020",
+      "endDate": "2021",
+      "Role": "Graduate research assistant"
+      "Duties": ["Used Montreal Forced Aligner to annotate speech production data",
+                 "Coded references of speech error research for a digital library",
+                 "Mentored undergraduate students"
+        
+      ]
+    },
+    {
+      "Lab": "Language Learning and Development Lab, Simon Fraser University, Canada",
+      "Project": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "PI": "Dr. Henny Yeung",
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com",
+      "Role": 
+      "Duties":
+    },
+    {
+      "Lab": "Language Learning and Development Lab, Simon Fraser University, Canada",
+      "Project": "Processing tone and vowel information in Mandarin: An eye-tracking study of contextual effects on speech processing.",
+      "PI": "Dr. Henny Yeung",
+      "startDate": "2017",
+      "endDate": "2020",
+      "Role": "Student lead, graduate trainee of NSERC Discovery Grant"
+      "Duties": ["Conducted literature review, developed research questions and hypotheses",
+                 "Designed an eye-tracking experiment using ExperimentBuilder, EyeLink and MatLab",
+                 "Collected and curated eye-tracking data from 24 native  Mandarin speakers",
+                 "Conducted Growth Curve Analysis on the eye-fixation data.",
+                "Developed a master thesis, 1 first-author manuscript (published) and 1 conference presentation."   
+      ]
+    },
+    {
+      "Lab": "Language Learning and Development Lab, Simon Fraser University, Canada",
+      "Project": "Foreign language learning and the perception of musical rhythm and melody.",
+      "PI": "Dr. Henny Yeung",
+      "startDate": "2017",
+      "endDate": "now",
+      "Role": "Graduate trainee of NSERC Discovery Grant",
+      "Duties": ["Conducted literature review, developed research questions and hypotheses",
+                 "Coordinated and supervised the data collection of perception and production data from 20 monolingual English speakers and 45 Mandarin learners of English.",
+                 "Used Linear Mixed Effects Models to analyze the perception of musical sub-domains and English lexical stress",
+                 "Mentored undergraduate students",
+                 "Developed 1 first-author manuscript (in preparation) and 2 conference presentations."      
+      ]
+    }
+  ],
+"Teaching experience": [
+    {
+      "Title": "LING330 Phonetics",
+      "Term(s)": "2018 Fall, 2019 Spring-Summer, 2020 Spring, 2021 Spring-Summer, 2022 Summer, 2023 Summer",
+      "Institute": "The Department of Linguistics, Simon Fraser University",
+      "startDate": "2018",
+      "endDate": "2023",
+      "Role": "Instructor of the acoustic lab sessions, teaching assistant"
+    },
+    {
+      "Title": "LING282W Writing for Linguistics",
+      "Term(s)": "2023 Spring, 2025 Spring",
+      "Institute": "The Department of Linguistics, Simon Fraser University",
+      "startDate": "2023",
+      "endDate": "2025",
+      "Role": "Teaching assistant"
+    },
+    {
+      "Title": "LING324 Semantics",
+      "Term(s)": "2024 Fall",
+      "Institute": "The Department of Linguistics, Simon Fraser University",
+      "startDate": "2024",
+      "endDate": "2024",
+      "Role": "Teaching assistant"
+    },
+    {
+     "Title": "LING111 The Wonder of Words",
+      "Term(s)": "2024 Summer",
+      "Institute": "The Department of Linguistics, Simon Fraser University",
+      "startDate": "2024",
+      "endDate": "2024",
+      "Role": "Teaching assistant"
+    },
+    {
+      "Title": "LING323 Morphology",
+      "Term(s)": "2023 Fall, 2022 Spring",
+      "Institute": "The Department of Linguistics, Simon Fraser University",
+      "startDate": "2022",
+      "endDate": "2023",
+      "Role": "Teaching assistant"
+    },
+    {
+      "Title": "LING360 Introduction to Applied Linguistics",
+      "Term(s)": "2023 Summer, 2022 Fall",
+      "Institute": "The Department of Linguistics, Simon Fraser University",
+      "startDate": "2022",
+      "endDate": "2023",
+      "Role": "Teaching assistant"
+    },
+    {
+      "Title": "LING415 Neurolinguistics",
+      "Term(s)": "2023 Spring, 2018 Spring",
+      "Institute": "The Department of Linguistics, Simon Fraser University",
+      "startDate": "2018",
+      "endDate": "2023",
+      "Role": "Teaching assistant"
+    },
+    {
+      "Title": "LING350 First Language Acquisition",
+      "Term(s)": "2022 Fall, 2020 Fall",
+      "Institute": "The Department of Linguistics, Simon Fraser University",
+      "startDate": "2020",
+      "endDate": "2022",
+      "Role": "Teaching assistant"
+    },
+  {
+      "Title": "LING362  Introduction to Teaching English as a Second Language to Adults",
+      "Term(s)": "2020 Fall",
+      "Institute": "The Department of Linguistics, Simon Fraser University",
+      "startDate": "2020",
+      "endDate": "2020",
+      "Role": "Teaching assistant"
+    },
+  {
+      "Title": "LING221  Introduction to Phonetics and Phonology",
+      "Term(s)": "2018 Summer",
+      "Institute": "The Department of Linguistics, Simon Fraser University",
+      "startDate": "2018",
+      "endDate": "2018",
+      "Role": "Teaching assistant"
+    },
+  {
+      "Title": "Advanced GRE(Graduate Record Examinations) Vocabulary",
+      "Institute": "Star Eduction Inc., Burnaby, Canada",
+      "startDate": "2020-08",
+      "endDate": "2023-03",
+      "Role": "Instructor"
+    },
+  {
+      "Title": "Academic Writing",
+      "Institute": "Star Eduction Inc., Burnaby, Canada",
+      "startDate": "2020-08",
+      "endDate": "2020-11",
+      "Role": "Instructor"
+    }
+  ]
+  
   "certificates": [
     {
       "name": "Machine Learning",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "issuer": "The University of British Columbia, Canada",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Quantum Computing",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "issuer": "Simon Fraser University",
       "url": "https://example.com",
       "icon": "fa-solid fa-tag"
     },
