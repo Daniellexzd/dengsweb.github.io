@@ -11,7 +11,7 @@
   "education": [
     {
       "name": "Simon Fraser University",
-      "degree": "Ph.D. candidate",
+      "degree": "Ph.D. candidate in Linguistics",
       "expected graduation date": "June, 2025",
       "startDate": "2020-09",
       "endDate": "now",
@@ -53,7 +53,7 @@
     },
     {
       "name": "Sichuan Normal University",
-      "degree": "Bachelor of Arts in Linguistics",
+      "degree": "Bachelor of Arts in Chinese Language and Literature",
       "startDate": "2011-09",
       "endDate": "2015-06",
       "GPA": "3.71/4, 4/4 for all Linguistics courses "
@@ -302,7 +302,7 @@
       "Role": "Student lead, Doctoral trainee of NSERC Discovery Grant",
       "Duties": ["Conducted literature review, developed research questions and hypotheses",
                  "Designed online experiment platform for perception studies using JsPschy",
-                 "Created scripts in MatLab to generate acoustic continuums for fricatives using STRAIGHT toolkit",
+                 "Created scripts in MatLab to generate acoustic continuums for fricatives using Tandem-STRAIGHT",
                  "Collected and curated speech perception and production data from 420 native English speakers and Mandarin learners of English in Canada and China",
                  "Used Generalized Linear Mixed Effects Models to analyze perception data and performed Linear Discriminant Analysis on acoustics.",
                  "Developed a doctoral dissertation, 3 first-author manuscripts (1 submitted, 2 in preparation) and 2 conference presentations."
@@ -315,7 +315,7 @@
       "PI/Co-Is": "Dr. Henny Yeung, Dr. Yue Wang",
       "startDate": "2017",
       "endDate": "now",
-      "Role": "Graduate trainee of NSERC and SSHRC Grant "
+      "Role": "Graduate research assistant "
       "Duties": ["Conducted literature review, developed research questions and hypotheses",
                  "Designed auditory stimuli in Mandarin and recorded visual stimuli",
                  "Coordinated and supervised the data collection of eye-tracking data from 72 monolingual English and bilingual English-Mandarin speakers.",
@@ -339,16 +339,6 @@
     },
     {
       "Lab": "Language Learning and Development Lab, Simon Fraser University, Canada",
-      "Project": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "PI": "Dr. Henny Yeung",
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com",
-      "Role": 
-      "Duties":
-    },
-    {
-      "Lab": "Language Learning and Development Lab, Simon Fraser University, Canada",
       "Project": "Processing tone and vowel information in Mandarin: An eye-tracking study of contextual effects on speech processing.",
       "PI": "Dr. Henny Yeung",
       "startDate": "2017",
@@ -366,8 +356,8 @@
       "Project": "Foreign language learning and the perception of musical rhythm and melody.",
       "PI": "Dr. Henny Yeung",
       "startDate": "2017",
-      "endDate": "now",
-      "Role": "Graduate trainee of NSERC Discovery Grant",
+      "endDate": "2018",
+      "Role": "Graduate research assistant",
       "Duties": ["Conducted literature review, developed research questions and hypotheses",
                  "Coordinated and supervised the data collection of perception and production data from 20 monolingual English speakers and 45 Mandarin learners of English.",
                  "Used Linear Mixed Effects Models to analyze the perception of musical sub-domains and English lexical stress",
@@ -470,115 +460,298 @@
       "startDate": "2020-08",
       "endDate": "2020-11",
       "Role": "Instructor"
+    },
+  {
+      "Title": "LING5801 Field Practicuum",
+      "Institute": "The Chinese University of Hong Kong, Hong Kong, China",
+      "startDate": "2017-05",
+      "endDate": "2017-07",
+      "Role": "Teaching assistant"
+    },
+  {
+      "Title": "LING5606 Special Topics in Applied Linguistics: Language Testing",
+      "Institute": "The Chinese University of Hong Kong, Hong Kong, China",
+      "startDate": "2017-01",
+      "endDate": "2017-04",
+      "Role": "Teaching assistant"
+    },
+  {
+      "Title": "LING5504 Teaching Chinese as a Second Language",
+      "Institute": "The Chinese University of Hong Kong, Hong Kong, China",
+      "startDate": "2017-01",
+      "endDate": "2017-04",
+      "Role": "Teaching assistant"
+    },
+  {
+      "Title": "LING5104 Chinese Phonology",
+      "Institute": "The Chinese University of Hong Kong, Hong Kong, China",
+      "startDate": "2017-01",
+      "endDate": "2017-04",
+      "Role": "Teaching assistant"
+    },
+  {
+      "Title": "LING4401 Special Topics in Linguistics: World Englishes",
+      "Institute": "The Chinese University of Hong Kong, Hong Kong, China",
+      "startDate": "2016-09",
+      "endDate": "2016-12",
+      "Role": "Teaching assistant"
+    },
+  {
+      "Title": "LING5501 Foundations in Sign Language Research",
+      "Institute": "The Chinese University of Hong Kong, Hong Kong, China",
+      "startDate": "2016-09",
+      "endDate": "2016-12",
+      "Role": "Teaching assistant"
+    },
+  {
+      "Title": "LING5101 Foundations I: Phonetics and Phonology",
+      "Institute": "The Chinese University of Hong Kong, Hong Kong, China",
+      "startDate": "2016-09",
+      "endDate": "2016-12",
+      "Role": "Teaching assistant"
     }
   ]
   
-  "certificates": [
+  "certificates and professional skill development": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "The University of British Columbia, Canada",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Programming in Python for Data Science",
+      "date of issue": "2025-06 (prospective)",
+      "issuer": "University of British Columbia Extended Learning, Canada"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Simon Fraser University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Introduction to Machine Learning",
+      "date of issue": "2025-06 (prospective)",
+      "issuer": "UBC Extended Learning, Canada"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "LING807 Computational Linguistics",
+      "date of issue": "2019-12 (audited)",
+      "issuer": "The Department of Linguistics, Simon Fraser Univerisity, Canada"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "name": "Data Scientist Associate Certificate",
+      "date of issue": "2020-06-12",
+      "issuer": "DataCamp",
+      "url": "https://app.datacamp.com/",
+      "Example courses": "Data Manipulation with dplyer, Writing functions in R, Data Visualization with ggplot2, Experiment Design in R, Data Manipulation with Panda, Introduction to Statistics in Python, Writing functions in Python, Unsupervised Learning in Python"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "name": "Instructional Skills Workshop",
+      "date of issue": "2020-12",
+      "issuer": "Centre for Educational Excellence, Simon Fraser Univerisity, Canada"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Foundation Certificate Programme in Cantonese for Chinese Speakers",
+      "date of issue": "2017-08",
+      "issuer": "Yale-China Chinese Language Academy, The Chinese University of Hong Kong, HK SAR, China"
     }
   ],
  
-  "skills": [
+  "Research skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Programming languages",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "R",
+        "Python",
+        "MatLab",
+        "JavaScript",
+        "Praat scripting"
       ]
+    },
+    {
+      "name": "Eyetracking-related",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "ExperimentBuilder",
+        "EyeLink",
+        "DataViewer",
+        "Access",
+        "Eyetracking R",
+        "Growth Curve Analysis"
+      ]
+    },
+    {
+      "name": "Others",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Praat",
+        "JsPschy",
+        "SPSS",
+        "Montreal Forced Aligner",
+        "Tandem-STRAIGHT"
+      ]
+    }
+  ],
+  "Awards and honors": [
+    {
+      "name": "Graduate Fellowships",
+      "Terms": "2025 Spring, 2022 Fall, 2022 Summer, 2022 Spring, 2021 Fall, 2021 Summer, 2021 Spring, 2020 Fall, 2019 Fall, 2018 Fall",
+      "issuer": "Simon Fraser University, Canada",
+      "amount": "CAD$56,000",
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "SFU Travel & Research Award (TARA)",
+      "Terms": "2024 Fall, 2020 Spring",
+      "issuer": "Simon Fraser University, Canada",
+      "amount": "CAD$2,000"
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "SFU Research Travel Award (Faculty of Arts and Social Sciences)",
+      "Terms": "2024 Summer",
+      "issuer": "Simon Fraser University, Canada",
+      "amount": "CAD$1,943"
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "SFU PhD Research Scholarship",
+      "Terms": "2024 Spring, 2024 Fall",
+      "issuer": "Simon Fraser University, Canada",
+      "amount": "CAD$3,600"
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "SFU President's PhD Scholarship",
+      "Terms": "2023 Summer",
+      "issuer": "Simon Fraser University, Canada",
+      "amount": "CAD$7,000"
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": " Community Trust Endowment Fund (CTEF) Doctoral Graduate Fellowship in Humanities",
+      "Terms": "2023 Summer",
+      "issuer": "Simon Fraser University, Canada",
+      "amount": "CAD$7,000"
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": " SFU Special Grad Entrance Scholarship",
+      "Terms": "2017 Fall",
+      "issuer": "Simon Fraser University, Canada",
+      "amount": "CAD$2,000"
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": " Scholarship for Outstanding Students",
+      "Terms": "2012 Summer, 2014 Summer, 2013 Fall, 2011 Fall",
+      "issuer": "Sichuan Normal University, China",
+      "amount": "CNY¥2,000"
+      "icon": "fa-solid fa-location-dot"
+    },
+     {
+      "name": " National English Contest for College Students",
+      "Year": "2013",
+      "issuer": "Sichuan Normal University, China",
+      "Title": "First prize"
+      "icon": "fa-solid fa-location-dot"
+    }
+  ],
+  "Supervisory & Mentoring Experiences": [
+    {
+      "Category": "Undergraduate research assistants supervised as a junior mentor",
+      "Names": ["Rasan Dhami, undergraduate RA,Language Learning and Development Lab, SFU",
+                "Nina Bautista, undergraduate RA, Language Learning and Development Lab, SFU "
+      ],
+      "Year": "2024-2025",
+      "Project": "Linguistic analysis of infant- and child-directed speech in one’s first and second languages."
+    },
+    {
+      "Category": "Undergraduate research assistants and graduate students supervised as a junior mentor",
+      "Names": ["Ivan Fong, MA student, Language and Brain Lab, SFU",
+                "Han Zhang, junior PhD student, Language and Brain Lab, SFU ",
+                "Bradley Wing, undergraduate RA, Language and Brain Lab, SFU "
+      ],
+      "Year": "2023-2025",
+      "Project": "Adaptations in conversation: engaging voices, faces, brains and machines."
+    },
+    {
+      "Category": "Undergraduate research assistants and graduate students supervised as a junior mentor",
+      "Names": ["Bingqing Yu, MA student, Language and Brain Lab, SFU",
+                "Erin Jastrzebski, USRA Awardee ($4,500), Language Learning and Development Lab, SFU ",
+                "Erika Korompai, undergraduate RA , Language Learning and Development Lab, SFU",
+                 "Fabiana Parra-Avila, undergraduate RA , Language Learning and Development Lab, SFU", 
+                 "Joanna Xie, undergraduate RA , Language Learning and Development Lab, SFU",
+                 "Julianne Bittante, undergraduate RA , Language Learning and Development Lab, SFU",
+                 "Samuel To, undergraduate RA ,  Language and Brain Lab, SFU"
+      ],
+      "Year": "2017-2023",
+      "Project": "Visual Processing of Speech Cues."
+    },
+    {
+     "Category": "Undergraduate research assistant supervised as a junior mentor",
+      "Names": ["Katerina Mihailidis, undergraduate RA , The Language Production Lab, SFU",
+      ],
+      "Year": "2021",
+      "Project": "Simon Fraser University Speech Error Database."
+    },
+    {
+      "Category": "Undergraduate research assistants and Mitacs Globalink Intern supervised as a junior mentor",
+      "Names": ["Paula Correa, USRA Awardee ($4,500), Language and Brain Lab, SFU",
+                "Kim Mann, undergraduate RA , Language Learning and Development Lab, SFU",
+                 "Dahai Zhang, undergraduate RA , Language Learning and Development Lab, SFU", 
+                 "Jule Lammers, Mitacs Globalink Intern ($6,000), Language Learning and Development Lab, SFU",
+                 "Gloriane Jue, USRA Awardee ($4,500), Language Learning and Development Lab, SFU"
+                 
+      ],
+      "Year": "2017-2021",
+      "Project": "Foreign language learning and the perception of musical rhythm and melody."
+    }
+  ],
+  "Professional and community services": [
+    {
+      "Organization": "Teaching Support Staff Union, SFU",
+      "startDate": "2024",
+      "endDate": "now",
+      "Role": "Steward of The Department of Linguistics"
+    },
+    {
+      "Organization": "LinguisticsNOW colloquium organizing committee, SFU",
+      "startDate": "2024",
+      "endDate": "now",
+      "Role": "Secretary"
+    },
+    {
+     "Organization": "Garlic Cantonese drop-ins for heritage and non-heritage speakers of Cantonese at Onion Language Centre in Chinatown, Vancouver",
+      "startDate": "2019",
+      "endDate": "2019",
+      "Role": "Volunteer and observer"
+    }
+  ],
+    "media appearances": [
+    {
+     "Program": "Video series on mastering GRE on a language learning platform @bilibili.com",
+      "Title": "A Linguist’s Guide to Mastering GRE Vocabulary (In Chinese)",
+      "Date": "2023-07",
+      "url": “https://www.bilibili.com/video/BV14V411W76F/?spm_id_from=333.1387.upload.video_card.click”
+    },
+      {
+      "Program": "Podcast: Whispering Study @xiaoyuzhou",
+      "Title": "A Linguist’s Journey: Feminism, Identity, and Academia Across Borders (In Chinese)",
+      "Date": "2023-03"
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "Mandarin Chinese",
+      "fluency": "Native",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Near-native",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
+      "language": "French",
+      "fluency": "Native",
+      "icon": ""
+    },
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "language": "Cantonese",
+      "fluency": "Intermediate",
+      "icon": ""
     }
   ]
 }
